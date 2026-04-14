@@ -6,6 +6,9 @@ AOS.init({
     offset: 100
 });
 
+// Initialize Lucide Icons
+lucide.createIcons();
+
 // Mobile Menu Toggle
 const burger = document.querySelector('.burger');
 const navMenu = document.querySelector('.nav-menu');
