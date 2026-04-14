@@ -570,20 +570,6 @@ section {
     align-items: flex-start;
 }
 
-.event-number {
-    width: 24px;
-    height: 24px;
-    background: var(--color-accent);
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-weight: 700;
-    font-size: var(--font-size-sm);
-    flex-shrink: 0;
-    margin-top: 2px;
-}
-
 .event-content h4 {
     margin-bottom: var(--spacing-xs);
 }
@@ -916,13 +902,6 @@ section {
     .event-item {
         gap: var(--spacing-sm);
         align-items: flex-start;
-    }
-    
-    .event-number {
-        width: 20px;
-        height: 20px;
-        font-size: 12px;
-        margin-top: 1px;
     }
     
     .stats-grid,
