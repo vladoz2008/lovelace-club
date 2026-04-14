@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+<!-- Фон — тёплый бежевый -->
+<rect width="32" height="32" rx="8" fill="#F5EFE8"/>
+
+<!-- Буква Л — тёмный тил -->
+<text
+  x="16"
+  y="23"
+  font-family="Georgia, serif"
+  font-size="22"
+  font-weight="bold"
+  font-style="italic"
+  fill="#3A7D7B"
+  text-anchor="middle"
+>Л</text>
+</svg>
