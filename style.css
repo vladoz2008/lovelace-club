@@ -567,6 +567,7 @@ section {
     padding: var(--spacing-md);
     background: rgba(255, 255, 255, 0.1);
     border-radius: 12px;
+    align-items: flex-start;
 }
 
 .event-number {
@@ -580,6 +581,7 @@ section {
     font-weight: 700;
     font-size: var(--font-size-sm);
     flex-shrink: 0;
+    margin-top: 2px;
 }
 
 .event-content h4 {
@@ -913,12 +915,14 @@ section {
     
     .event-item {
         gap: var(--spacing-sm);
+        align-items: flex-start;
     }
     
     .event-number {
         width: 20px;
         height: 20px;
         font-size: 12px;
+        margin-top: 1px;
     }
     
     .stats-grid,
