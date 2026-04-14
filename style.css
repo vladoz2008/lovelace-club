@@ -722,6 +722,7 @@ section {
 .contact-content h2 {
     font-size: var(--font-size-3xl);
     margin-bottom: var(--spacing-md);
+    line-height: 1.2;
 }
 
 .contact-description {
@@ -923,5 +924,11 @@ section {
     
     .section-title {
         font-size: 2rem;
+    }
+    
+    .contact-content h2 {
+        font-size: 2rem;
+        text-align: center;
+        line-height: 1.1;
     }
 }
