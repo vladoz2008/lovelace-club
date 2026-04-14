@@ -95,6 +95,7 @@ body {
     height: 50px;
     border-radius: 50%;
     object-fit: cover;
+    background: transparent;
 }
 
 .nav-menu {
@@ -859,6 +860,7 @@ section {
     height: 40px;
     border-radius: 50%;
     object-fit: cover;
+    background: transparent;
 }
 
 /* ===== Responsive Design ===== */
